@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+if(a<10 ) 
+{
+   s=10;
+  if(a>10)
+  {
+    v++;
+  }
+}
+

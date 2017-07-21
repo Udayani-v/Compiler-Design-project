@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+//Has if construct with printf semantic error + missing semicolon syntax error
+if (a<b)
+{
+   a = c/10;
+   e=d+20;
+
+}
+
+}

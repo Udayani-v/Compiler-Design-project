@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+//Test case with printf semantic error.
+if(a<b)
+{
+int c=20;
+float v = 10.0;
+printf("%s" ,v );
+int a;
+a = c+10;
+int d=20;
+int e;
+e=d+20;
+}
+}
+
+
